@@ -1,0 +1,9 @@
+C:\Users\Nittza Flores\Downloads\Compressed\PathFinding-master\PathFinding-master\Grid\bin\Debug\GridNew.dll
+C:\Users\Nittza Flores\Downloads\Compressed\PathFinding-master\PathFinding-master\Grid\bin\Debug\GridNew.pdb
+C:\Users\Nittza Flores\Downloads\Compressed\PathFinding-master\PathFinding-master\Grid\obj\Debug\GridNew.dll
+C:\Users\Nittza Flores\Downloads\Compressed\PathFinding-master\PathFinding-master\Grid\obj\Debug\GridNew.pdb
+C:\Users\USER\Documents\Visual Studio 2019\PathFinding-master\Grid\bin\Debug\GridNew.dll
+C:\Users\USER\Documents\Visual Studio 2019\PathFinding-master\Grid\bin\Debug\GridNew.pdb
+C:\Users\USER\Documents\Visual Studio 2019\PathFinding-master\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2019\PathFinding-master\Grid\obj\Debug\GridNew.dll
+C:\Users\USER\Documents\Visual Studio 2019\PathFinding-master\Grid\obj\Debug\GridNew.pdb
